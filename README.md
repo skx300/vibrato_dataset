@@ -17,3 +17,5 @@ Description of some files
 - AudioName-Annotation-(new).csv: the area ground truth. You only need to use the first column showing the starting point of each vibrato, and the third column showing the duration.
 - AudioName-Annotation-Stat.csv: the half cycle indication ground truth
 - AudioName-Yin.csv: the f0 get from pyin
+
+**TODO**: Erhu/Wangguotong and Violin/Laurel lacks of half cycle annotation for vibraot rate and extent estimation.
