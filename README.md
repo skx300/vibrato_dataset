@@ -18,4 +18,4 @@ Description of some files
 - AudioName-Annotation-Stat.csv: the half cycle indication ground truth
 - AudioName-Yin.csv: the f0 get from pyin
 
-**TODO**: Erhu/Wangguotong and Violin/Laurel lacks of half cycle annotation for vibraot rate and extent estimation.
+**TODO**: Erhu/Wangguotong and Violin/Laurel lack of half cycle annotation for vibrato rate and extent estimation.
